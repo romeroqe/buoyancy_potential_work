@@ -19,7 +19,7 @@ z = flip(z);
 
 %% 2. Compute the Work done by buoyancy
 
-[WB, z_wb] = buoyancy_potential_work(rho, z, -10);
+[WB, z_wb] = buoyancy_potential_work(rho, z);
 
 
 %% 3. Figure
