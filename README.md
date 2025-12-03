@@ -14,9 +14,9 @@ To view the demos, go to the `demo` folder, choose your preferred programming la
 ## How to cite
 
 > [!IMPORTANT]
-> _A scientific publication related to this repository is being reviewed by a journal, for now, you can use the Zenodo reference:_
+> _If you use this method, please include a reference to the following:_
 > 
-> moreles86. moreles86/buoyancy_potential_work: buoyancy_potential_work (v1.0.1). Zenodo. https://doi.org/10.5281/zenodo.14531829, 2024.
+> Moreles, E., Romero, E., Ramos-Musalem, K., and Tenorio-Fernandez, L.: The global ocean mixed layer depth derived from an energy approach based on buoyancy work, Ocean Sci., 21, 2019–2039, https://doi.org/10.5194/os-21-2019-2025, 2025.
 
 ## Argo data acknowledgment
 Argo data were collected and made freely available by the International Argo Program and the national programs that contribute to it. ([http://www.argo.ucsd.edu](http://www.argo.ucsd.edu), [http://argo.jcommops.org](http://argo.jcommops.org)). The Argo Program is part of the Global Ocean Observing System.
